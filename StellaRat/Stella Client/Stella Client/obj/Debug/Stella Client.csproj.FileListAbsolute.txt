@@ -1,0 +1,11 @@
+C:\Users\Levi\source\repos\Stella Client\Stella Client\obj\Debug\Stella Client.csproj.AssemblyReference.cache
+C:\Users\Levi\source\repos\Stella Client\Stella Client\obj\Debug\Stella Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Levi\source\repos\Stella Client\Stella Client\obj\Debug\Stella_Client.Form1.resources
+C:\Users\Levi\source\repos\Stella Client\Stella Client\obj\Debug\Stella_Client.Properties.Resources.resources
+C:\Users\Levi\source\repos\Stella Client\Stella Client\obj\Debug\Stella Client.csproj.GenerateResource.cache
+C:\Users\Levi\source\repos\Stella Client\Stella Client\obj\Debug\Stella Client.csproj.CoreCompileInputs.cache
+C:\Users\Levi\source\repos\Stella Client\Stella Client\bin\Debug\Stella Client.exe.config
+C:\Users\Levi\source\repos\Stella Client\Stella Client\bin\Debug\Stella Client.exe
+C:\Users\Levi\source\repos\Stella Client\Stella Client\bin\Debug\Stella Client.pdb
+C:\Users\Levi\source\repos\Stella Client\Stella Client\obj\Debug\Stella Client.exe
+C:\Users\Levi\source\repos\Stella Client\Stella Client\obj\Debug\Stella Client.pdb

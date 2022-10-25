@@ -1,0 +1,11 @@
+C:\Users\Levi\source\repos\Stella RAT\Stella RAT\bin\Debug\Stella RAT.exe.config
+C:\Users\Levi\source\repos\Stella RAT\Stella RAT\bin\Debug\Stella RAT.exe
+C:\Users\Levi\source\repos\Stella RAT\Stella RAT\bin\Debug\Stella RAT.pdb
+C:\Users\Levi\source\repos\Stella RAT\Stella RAT\obj\Debug\Stella RAT.csproj.AssemblyReference.cache
+C:\Users\Levi\source\repos\Stella RAT\Stella RAT\obj\Debug\Stella RAT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Levi\source\repos\Stella RAT\Stella RAT\obj\Debug\Stella_RAT.Form1.resources
+C:\Users\Levi\source\repos\Stella RAT\Stella RAT\obj\Debug\Stella_RAT.Properties.Resources.resources
+C:\Users\Levi\source\repos\Stella RAT\Stella RAT\obj\Debug\Stella RAT.csproj.GenerateResource.cache
+C:\Users\Levi\source\repos\Stella RAT\Stella RAT\obj\Debug\Stella RAT.csproj.CoreCompileInputs.cache
+C:\Users\Levi\source\repos\Stella RAT\Stella RAT\obj\Debug\Stella RAT.exe
+C:\Users\Levi\source\repos\Stella RAT\Stella RAT\obj\Debug\Stella RAT.pdb
